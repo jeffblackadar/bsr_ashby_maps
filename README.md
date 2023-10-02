@@ -5,6 +5,31 @@ per https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A66660?page=15
 Each bar is one minute
 
 degree alt+0176
+
+## Procedures
+
+### Georectification
+
+Open Python
+Load qgis_create_points.py
+in line 103 set map_name = "ta_map_149_ii_se-1"
+
+Open QGIS
+Open georeferencer
+Check target SRS is EPSG:4806
+Change output file name to -4806
+Open Python
+Mark outer points
+
+
+File | Load GCP Points... AU DGA_00_template.points
+Move 6 points to correct place on image
+Start georefererncing
+Check results in QGIS
+
+
+
+
 ## Particular maps
 TA[MAP]-149.II.NE
 

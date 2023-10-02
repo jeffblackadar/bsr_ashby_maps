@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ta_map_150_iii_so_points_kml" name="ta_map_150_iii_so_points_kml">
+      <SimpleField name="id" type="float"/>
+      <SimpleField name="symbol" type="string"/>
+      <SimpleField name="notes" type="string"/>
+    </Schema>
+    <Schema id="ta-map-150-iii-so-points.schema">
+      <SimpleField name="id" type="float"/>
+      <SimpleField name="symbol" type="string"/>
+      <SimpleField name="notes" type="string"/>
+    </Schema>
+    <Folder>
+      <name>ta_map_150_iii_so_points_kml</name>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="id">1</SimpleData>
+            <SimpleData name="symbol">C</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5383073634525,41.7248838150687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5687621074091,41.7266749473661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5744761408065,41.7301362571487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="symbol">square</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5745860287308,41.7292132436778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="symbol">square</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5332360987078,41.7438989870919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_points_kml">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5331042306064,41.745942802815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Document id="ta-map-150-iii-so-points">
+      <name>ta-map-150-iii-so-points</name>
+      <Placemark id="ta-map-150-iii-so-points.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="id">1</SimpleData>
+            <SimpleData name="symbol">C</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5383073634525,41.7248838150687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-points.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5687621074091,41.7266749473661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-points.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5744761408065,41.7301362571487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-points.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="symbol">square</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5745860287308,41.7292132436778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-points.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="symbol">square</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5332360987078,41.7438989870919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-points.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-points.schema">
+            <SimpleData name="symbol">V</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.5331042306064,41.745942802815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

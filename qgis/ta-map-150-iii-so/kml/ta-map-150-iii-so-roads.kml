@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ta_map_150_iii_so_roads" name="ta_map_150_iii_so_roads">
+      <SimpleField name="id" type="float"/>
+      <SimpleField name="notes" type="string"/>
+    </Schema>
+    <Schema id="ta-map-150-iii-so-roads.schema">
+      <SimpleField name="id" type="float"/>
+      <SimpleField name="notes" type="string"/>
+    </Schema>
+    <Folder>
+      <name>ta_map_150_iii_so_roads</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_roads">
+            <SimpleData name="id">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <LineString>
+            <coordinates>
+              12.5605206348103,41.7506293365101,0
+              12.5615755433525,41.7475526259573,0
+              12.5613997305766,41.7461021756764,0
+              12.561795323508,41.7441242898961,0
+              12.5619271941211,41.7411354840137,0
+              12.5621030191454,41.7380587721417,0
+              12.5624986168257,41.7343227651517,0
+              12.5644326067039,41.7320372105041,0
+              12.5655754197648,41.7303669970831,0
+              12.5677291799119,41.7283012079219,0
+            </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_roads">
+            <SimpleData name="id">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <LineString>
+            <coordinates>
+              12.5231431026479,41.75068422074,0
+              12.5249891891968,41.746596591715,0
+              12.5261759584189,41.7442231298799,0
+              12.5270990017441,41.7421573388568,0
+              12.5280220493874,41.7385092387375,0
+            </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_roads">
+            <SimpleData name="id">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <LineString>
+            <coordinates>
+              12.530263725751,41.7335865027628,0
+              12.531010951281,41.7319162887533,0
+            </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta_map_150_iii_so_roads">
+            <SimpleData name="id">4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <LineString>
+            <coordinates>
+              12.532527382597,41.7274111054702,0
+              12.533889964409,41.7265320469499,0
+              12.5349448678944,41.7253233402325,0
+              12.5360876787695,41.7244662578909,0
+              12.5377139924416,41.7210818770563,0
+            </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Document id="ta-map-150-iii-so-roads">
+      <name>ta-map-150-iii-so-roads</name>
+      <Placemark id="ta-map-150-iii-so-roads.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-roads.schema">
+            <SimpleData name="id">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            12.5605206348103,41.7506293365101,0
+            12.5615755433525,41.7475526259573,0
+            12.5613997305766,41.7461021756764,0
+            12.561795323508,41.7441242898961,0
+            12.5619271941211,41.7411354840137,0
+            12.5621030191454,41.7380587721417,0
+            12.5624986168257,41.7343227651517,0
+            12.5644326067039,41.7320372105041,0
+            12.5655754197648,41.7303669970831,0
+            12.5677291799119,41.7283012079219,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-roads.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-roads.schema">
+            <SimpleData name="id">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            12.5231431026479,41.75068422074,0
+            12.5249891891968,41.746596591715,0
+            12.5261759584189,41.7442231298799,0
+            12.5270990017441,41.7421573388568,0
+            12.5280220493874,41.7385092387375,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-roads.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-roads.schema">
+            <SimpleData name="id">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            12.530263725751,41.7335865027628,0
+            12.531010951281,41.7319162887533,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="ta-map-150-iii-so-roads.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#ta-map-150-iii-so-roads.schema">
+            <SimpleData name="id">4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            12.532527382597,41.7274111054702,0
+            12.533889964409,41.7265320469499,0
+            12.5349448678944,41.7253233402325,0
+            12.5360876787695,41.7244662578909,0
+            12.5377139924416,41.7210818770563,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

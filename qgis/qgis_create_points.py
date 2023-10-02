@@ -100,15 +100,15 @@ def calculate_points_on_line(lat_lon_static, inc_dec, west_of_meridian, origin_l
         points_lines = points_lines + point_line
     return(points_lines) 
 
+map_name = "ta-map-150-iii-so"
 point_lines = ""
-point_lines = calculate_points_on_line("lat", "dec", True, 41, 50, 0, 0, -15, 0, 7, 516, 534, 5601, 536)
-point_lines = point_lines + calculate_points_on_line("lat", "dec", True, 41, 45, 0, 0, -15, 0, 7, 484, 5318, 5615, 5353)
-point_lines = point_lines + calculate_points_on_line("lon", "dec", False, 41, 50, 0, 0, -15, 0, 5, 516, 534, 484, 5318)
+point_lines = calculate_points_on_line("lat", "inc", False, 41, 45, 0, 0, 0, 0, 7, 538.629, 474.412, 5372.37, 479.767)
+point_lines = point_lines + calculate_points_on_line("lat", "inc", False, 41, 40, 0, 0, 0, 0, 7, 517.213, 5013.67, 5355.24, 5037.23)
+point_lines = point_lines + calculate_points_on_line("lon", "dec", False, 41, 45, 0, 0, 0, 0, 5, 538.629, 474.412, 517.213, 5013.67)
 # Let's not put points not on the border of the map
-#point_lines = point_lines + calculate_points_on_line("lon", "dec", False, 41, 50, 0, 0, -7, 0, 5, 772, 568, 5318)
+
 print(point_lines)
 
-map_name = "ta_map_149_ii_no"
 map_points_path = os.path.join(os.path.join('E:\\a_new_orgs\\carleton\\bsr\\',(map_name+"\\")),(map_name+".points"))
 
 
