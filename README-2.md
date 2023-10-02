@@ -124,7 +124,11 @@ Created a gcp .points file with 6 geo reference points from layer a0000000e SU_p
 Open georeferencer
 Check target SRS is EPSG:102093
 change output file name to _102093
+<<<<<<< Updated upstream
+>>>>>>> 3598cad9ae7dcfbf34ac14bfe3b689cebef69db0
+=======
 >>>>>>> ab1a4b9704eeb75de554c7514b828a8da2ddeed6
+>>>>>>> Stashed changes
 File | Load GCP Points... AU DGA_00_template.points
 Move 6 points to correct place on image
 Start georefererncing
@@ -151,4 +155,8 @@ mapX,mapY,pixelX,pixelY,enable,dX,dY,residual
 12.45197222222222067,41.75,5859.64268279860152688,-5335.86500015021010768,1,-3.33937703571609745,-8.67814225695383357,9.29847256373840203
 12.45197222222222067,41.8333333333333357,5852.95496875750905019,-568.86243165705934643,1,3.34833700537637924,-0.09019392923983105,3.34955155900675461
 =======
+<<<<<<< Updated upstream
+>>>>>>> 3598cad9ae7dcfbf34ac14bfe3b689cebef69db0
+=======
 >>>>>>> ab1a4b9704eeb75de554c7514b828a8da2ddeed6
+>>>>>>> Stashed changes
